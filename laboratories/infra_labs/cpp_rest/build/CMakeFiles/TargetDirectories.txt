@@ -1,0 +1,3 @@
+F:/projects/ai projects/cpp_rest/build/CMakeFiles/cpp_rest.dir
+F:/projects/ai projects/cpp_rest/build/CMakeFiles/edit_cache.dir
+F:/projects/ai projects/cpp_rest/build/CMakeFiles/rebuild_cache.dir

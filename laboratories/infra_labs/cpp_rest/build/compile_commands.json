@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/projects/ai projects/cpp_rest/build",
+  "command": "F:\\msys64\\mingw64\\bin\\clang++.exe  @CMakeFiles/cpp_rest.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\cpp_rest.dir\\main.cpp.obj -c \"F:\\projects\\ai projects\\cpp_rest\\main.cpp\"",
+  "file": "F:/projects/ai projects/cpp_rest/main.cpp"
+}
+]
