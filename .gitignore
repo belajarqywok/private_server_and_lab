@@ -1,1 +1,5 @@
+# static files/directories
+/configurations/inventories/nodes.stb.ini
+
+# dynamic files/directories
 /access_keys/NODE_1_STB
